@@ -7,7 +7,6 @@
 - 🤔 Estou procurando ajuda com desenvolvimento python, mobile e games
 - 💬 Pergunte-me sobre filmes, games, tecnologia, saúde e ciência 
 - 📫 Como me encontrar: "Deixe-me ir. Preciso andar. Vou por aí a procurar"
-- 😄 Pronouns: Ele/dele
 - ⚡ Fun fact: Batman é meu héroi preferido.
 
 <h2 align="center">
