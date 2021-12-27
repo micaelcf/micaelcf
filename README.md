@@ -1,13 +1,11 @@
 <h2 align="center"> Olá ! Eu sou o Micael 🤖🖥💾⚔<br/></h2> 
 <h3 align="center">Estudante de Engenharia da Computação</h3>
 
-- 🔭 Atualmente trabalho com desenvolvimento de aplicações e machine learning
-- 🌱 Estou estudando atualmente python, desenvolvimento mobile e machine learning
-- 👯 Estou procurando colaborar projetos para melhorar a realidade brasileira de alguma forma
-- 🤔 Estou procurando ajuda com desenvolvimento python, mobile e games
-- 💬 Pergunte-me sobre filmes, games, tecnologia, saúde e ciência 
-- 📫 Como me encontrar: "Deixe-me ir. Preciso andar. Vou por aí a procurar"
-- ⚡ Fun fact: Batman é meu héroi preferido.
+- 🔭 Atualmente trabalho com desenvolvimento de aplicações, games e projetos de machine learning
+- 👯 Em busca de colaborar com projetos para melhorar a realidade brasileira de alguma forma
+<p align="center">
+  <img src="https://media4.giphy.com/media/MM0Jrc8BHKx3y/giphy.gif?cid=ecf05e47ctxydsosnk07f778dpso1tv4xcohpmhcs8jnd4j2&rid=giphy.gif&ct=g">
+</p>  
 
 <h2 align="center">
 Technologies and Languages </h2>
