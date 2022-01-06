@@ -1,11 +1,13 @@
 <h2 align="center"> Olá ! Eu sou o Micael 🤖🖥💾⚔<br/></h2> 
-<h3 align="center">Estudante de Engenharia da Computação</h3>
+<h3 align="center">Estudante de Engenharia da Computação 
+  <a href=https://www.linkedin.com/in/micael-fernandes21><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&colorB=0A66C2"></a> 
+</h3>
 
 - 🔭 Atualmente trabalho com desenvolvimento de aplicações, games e projetos de machine learning
 - 👯 Em busca de colaborar com projetos para melhorar a realidade brasileira de alguma forma
 <p align="center">
   <img src="https://media4.giphy.com/media/MM0Jrc8BHKx3y/giphy.gif?cid=ecf05e47ctxydsosnk07f778dpso1tv4xcohpmhcs8jnd4j2&rid=giphy.gif&ct=g">
-</p>  
+</p> 
 
 <h2 align="center">
 Technologies and Languages </h2>
@@ -38,3 +40,7 @@ Technologies and Languages </h2>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FirerPlayer&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
   
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
+
