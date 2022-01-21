@@ -3,7 +3,7 @@
   <a href=https://www.linkedin.com/in/micael-fernandes21><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&colorB=0A66C2"></a> 
 </h3>
 
-- 🔭 Atualmente trabalho com desenvolvimento de aplicações, games e projetos de machine learning
+- 🔭 Atualmente trabalho com desenvolvimento de aplicações e games.
 - 👯 Em busca de colaborar com projetos para melhorar a realidade brasileira de alguma forma
 
 <h2 align="center">
