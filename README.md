@@ -5,9 +5,6 @@
 
 - 🔭 Atualmente trabalho com desenvolvimento de aplicações, games e projetos de machine learning
 - 👯 Em busca de colaborar com projetos para melhorar a realidade brasileira de alguma forma
-<p align="center">
-  <img src="https://media4.giphy.com/media/MM0Jrc8BHKx3y/giphy.gif?cid=ecf05e47ctxydsosnk07f778dpso1tv4xcohpmhcs8jnd4j2&rid=giphy.gif&ct=g">
-</p> 
 
 <h2 align="center">
 Technologies and Languages </h2>
