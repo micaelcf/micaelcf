@@ -4,7 +4,7 @@
 </h3>
 
 - 🔭 Atualmente trabalho com desenvolvimento de aplicações e games.
-- 👯 Em busca de colaborar com projetos para melhorar a realidade brasileira de alguma forma
+- 👯 Em busca de conhecimentos e desafios para aprender muito e utilizar isso para melhorar a sociedade brasileira de alguma forma
 
 <h2 align="center">
 Technologies and Languages </h2>
