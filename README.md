@@ -15,6 +15,7 @@ Technologies and Languages </h2>
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-1E1E1E?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![React.js](https://img.shields.io/badge/react.js-282C34?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
 ![Django](https://img.shields.io/badge/django-white?style=for-the-badge&logo=django&logoColor=0C4B33)
 ![Flask](https://img.shields.io/badge/flask-white?style=for-the-badge&logo=flask&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
