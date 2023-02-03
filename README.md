@@ -1,10 +1,10 @@
 <h2 align="center"> Hi everyone  <br/></h2> 
-<h3 align="center">Computer Engineering Student 
-  <a href=https://www.linkedin.com/in/micael-fernandes21><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&colorB=0A66C2"></a> 
-</h3>
+<h3 align="center">Computer Engineering Student</h3>
 
 - 🔭 Web/Software/Game Development, Machine Learning (JavaScript | Python <3)
-- 👯 Looking for opportunities to do my best, make a difference and solve problems
+- ✍ Looking for opportunities to do my best, make a difference and solve problems
+
+  <a aling="center" href=https://www.linkedin.com/in/micael-fernandes21><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&colorB=0A66C2"></a>
 
 <h2 align="center">
 Technologies and Languages </h2>
