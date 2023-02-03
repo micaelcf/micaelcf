@@ -1,5 +1,5 @@
-<h2 align="center"> Olá ! Eu sou o Micael 🤖🖥💾⚔<br/></h2> 
-<h3 align="center">Estudante de Engenharia da Computação 
+<h2 align="center"> I'm Micael Fernandes <br/></h2> 
+<h3 align="center">Computer Engineering Student 
   <a href=https://www.linkedin.com/in/micael-fernandes21><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&colorB=0A66C2"></a> 
 </h3>
 
