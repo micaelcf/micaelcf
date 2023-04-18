@@ -4,8 +4,6 @@
 - 🔭 Web/Software/Game Development, Machine Learning (JavaScript | Python <3)
 - ✍ Looking for opportunities to do my best, make a difference and solve problems
 
-  <a aling="center" href=https://www.linkedin.com/in/micael-fernandes21><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&colorB=0A66C2"></a>
-
 <h2 align="center">
 Technologies and Languages </h2>
 
@@ -38,8 +36,8 @@ Technologies and Languages </h2>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FirerPlayer&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
   
-<h2 align="center">Contact</h2>
-<p><span style="margin-right: 30px;"></span><a href="https://www.linkedin.com/in/micael-fernandes21/"><img target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="width: 10%;"></a><span style="margin-right: 30px;"></span><a href="https://github.com/FirerPlayer"><img target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="width: 10%;"></a></p>
+<!-- <h2 align="center">Contact</h2>
+<p><span style="margin-right: 30px;"></span><a href="https://www.linkedin.com/in/micael-fernandes21/"><img target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="width: 10%;"></a><span style="margin-right: 30px;"></span><a href="https://github.com/FirerPlayer"><img target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="width: 10%;"></a></p> -->
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
