@@ -1,21 +1,22 @@
 <h2 align="center"> Hi everyone  <br/></h2> 
 <h3 align="center">Computer Engineering Student</h3>
 
-- 🔭 Web/Software/Game Development, Machine Learning (JavaScript | Python <3)
+- 🔭 Web/Software/Game Development, Machine Learning (JavaScript | Python | Go <3)
 - ✍ Looking for opportunities to do my best, make a difference and solve problems
 
 <h2 align="center">
 Technologies and Languages </h2>
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)
+![c](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-1E1E1E?style=for-the-badge&logo=javascript&logoColor=yellow)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
 ![React.js](https://img.shields.io/badge/react.js-282C34?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
-![Django](https://img.shields.io/badge/django-white?style=for-the-badge&logo=django&logoColor=0C4B33)
-![Flask](https://img.shields.io/badge/flask-white?style=for-the-badge&logo=flask&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
