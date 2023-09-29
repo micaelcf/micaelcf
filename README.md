@@ -35,18 +35,25 @@
 ## 📈 Statistics
 
 <br/>
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=FirerPlayer&count_private=true&theme=dark&show_icons=true" alt="noonday" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=FirerPlayer&hide_border=true&theme=dark&show_icons=true" />
+<p align="center" justify="center">
+  
+  
+  <!-- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=firerplayer&hide_border=true&theme=dark&show_icons=true" /> -->
 </p>
+<table style="width: 100%; border: none;" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <td>
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=FirerPlayer&count_private=true&theme=dark&show_icons=true" alt="noonday" />
+    </td>
+    <td>
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FirerPlayer&langs_count=8&hide_border=true&theme=dark&show_icons=true&layout=donut" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FirerPlayer&langs_count=8&hide_border=true&theme=dark&show_icons=true" />
+
 </p>
-
-## Pinned Repositories
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=FirerPlayer&repo=stwui&hide_border=true&theme=dark&show_icons=true" />
 
 <!--
 <h2 align="center"> GitHub stats </h2
