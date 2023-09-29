@@ -1,38 +1,61 @@
-<h2 align="center"> Hi everyone  <br/></h2> 
-<h3 align="center">Computer Engineering Student</h3>
+## Hey I am Micael Fernandes
 
-- 🔭 Web/Software/Game Development, Machine Learning (TypeScript | Python | Go <3)
-- ✍ Looking for opportunities to do my best, make a difference and solve problems
+- 🔭 Web/Software/Game Development, Machine Learning (TypeScript | Python | Go) ❤️
+- ✍ Looking for opportunities to do my best, make a difference and solve problems 📖
 
-<h2 align="center">
-Technologies and Languages </h2>
+### 🧑‍💻 Languages:
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![c](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-1E1E1E?style=for-the-badge&logo=javascript&logoColor=yellow)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
-![React.js](https://img.shields.io/badge/react.js-282C34?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-575757?style=for-the-badge&logo=linux&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-204d25?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-db8616?style=for-the-badge&logo=git&logoColor=white) (learning more)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)&nbsp;
+
+
+### 🕶️ Technologies:
+
+![Svelte](https://img.shields.io/badge/-Svelte-05122A?style=flat&logo=svelte)&nbsp;
+![SvelteKit](https://img.shields.io/badge/-SvelteKit-05122A?style=flat&logo=svelte)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-0F172A?style=flat&logo=tailwindcss)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Bun](https://img.shields.io/badge/-Bun-05122A?style=flat&logo=bun)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Windows](https://img.shields.io/badge/Windows-05122A?style=flat&logo=windows)&nbsp;
+![Ubuntu](https://img.shields.io/badge/-Arch-05122A?style=flat&logo=arch)&nbsp;
+![Linux](https://img.shields.io/badge/-linux-05122A?style=flat&logo=linux)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)&nbsp;
+
 
 <!-- <img align="center" a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> -->
+## 📈 Statistics
 
+<br/>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=FirerPlayer&count_private=true&theme=dark&show_icons=true" alt="noonday" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=FirerPlayer&hide_border=true&theme=dark&show_icons=true" />
+</p>
+
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FirerPlayer&langs_count=8&hide_border=true&theme=dark&show_icons=true" />
+</p>
+
+## Pinned Repositories
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=FirerPlayer&repo=stwui&hide_border=true&theme=dark&show_icons=true" />
+
+<!--
 <h2 align="center"> GitHub stats </h2
 
 <div align="center">
   <a href="https://github.com/FirerPlayer">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FirerPlayer&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FirerPlayer&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-</div>
+</div> -->
   
 <!-- <h2 align="center">Contact</h2>
 <p><span style="margin-right: 30px;"></span><a href="https://www.linkedin.com/in/micael-fernandes21/"><img target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="width: 10%;"></a><span style="margin-right: 30px;"></span><a href="https://github.com/FirerPlayer"><img target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="width: 10%;"></a></p> -->
