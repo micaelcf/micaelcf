@@ -1,6 +1,6 @@
 ## Hey I am Micael Fernandes
 
-- 🔭 Web/Software/Game Development, Machine Learning (TypeScript | Python | Go) ❤️
+- 🔭 Software development and AI Engineer (TypeScript | Python | Go) ❤️
 - ✍ Always learning 📖
 - 🚀 Full stack developer with strong front-end skills 🖥️
 
@@ -33,42 +33,3 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)&nbsp;
 
 Learning more !!
-
-<!-- <img align="center" a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> -->
-
-## 📈 Statistics
-
-<br/>
-<p align="center" justify="center">
-  
-  
-  <!-- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=micaelcf&hide_border=true&theme=dark&show_icons=true" /> -->
-</p>
-<table style="width: 100%; border: none;" cellspacing="0" cellpadding="0" border="0">
-  <tr>
-    <td>
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=micaelcf&count_private=true&theme=dark&show_icons=true" alt="noonday" />
-    </td>
-    <td>
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micaelcf&langs_count=8&hide_border=true&theme=dark&show_icons=true&layout=donut" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-
-</p>
-
-<!--
-<h2 align="center"> GitHub stats </h2
-
-<div align="center">
-  <a href="https://github.com/micaelcf">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=micaelcf&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micaelcf&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-</div> -->
-
-<!-- <h2 align="center">Contact</h2>
-<p><span style="margin-right: 30px;"></span><a href="https://www.linkedin.com/in/micael-fernandes21/"><img target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="width: 10%;"></a><span style="margin-right: 30px;"></span><a href="https://github.com/micaelcf"><img target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="width: 10%;"></a></p> -->
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
