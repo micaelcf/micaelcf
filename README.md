@@ -46,4 +46,4 @@ Belém, Pará — Brazil · [micael-dev.vercel.app](https://micael-dev.vercel.ap
 
 Building event-driven backends and interfaces that feel deliberate. The neural-network, computer-graphics and signal-processing repos below are coursework from UFPA — kept public because the fundamentals still show.
 
-**Open to work.** [micael-dev.vercel.app](https://micael-dev.vercel.app) · [LinkedIn](https://www.linkedin.com/in/micael-fernandes21/) · micaelf81@gmail.com
+[micael-dev.vercel.app](https://micael-dev.vercel.app) · [LinkedIn](https://www.linkedin.com/in/micael-fernandes21/) · micaelf81@gmail.com
